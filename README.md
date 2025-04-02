@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning a lot o things!!<br>🎯 Goals: Make changes</p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning a lot of things!!<br>🎯 Goals: Make changes</p>
 
 ###
 
