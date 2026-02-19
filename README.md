@@ -1,11 +1,9 @@
 <!-- ============================================ -->
 <!-- 🔐 ALEX — GitHub Profile README              -->
 <!-- ============================================ -->
-<!-- ⚠️ IMPORTANTE: Reemplaza TODAS las apariciones de "XelaJr" por tu nombre de usuario real de GitHub -->
-
 <div align="center">
 
-<!-- TYPING SVG — Texto animado como si se escribiera -->
+<!-- TYPING SVG  -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%F0%9F%94%90+Computer+Engineer+%7C+Cybersecurity)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Building+secure+systems%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
