@@ -22,7 +22,8 @@
 name: Alex
 role: Computer Engineer
 location: Spain 🇪🇸
-diploma: Cybersecurity — Universidad Loyola
+Studies: Ingeniería Informatica en Tecnologías Virtuales — Universidad Loyola
+Diploma: Cibersecurity — Universidad Loyola
 
 interests:
   - 🔐 Cybersecurity (offensive & defensive)
@@ -36,7 +37,7 @@ background: >
   in cybersecurity. I love understanding how things work under the hood
   and figuring out how to make them more secure.
 
-currently: Starting a cybersecurity internship at a startup
+currently: Starting a cybersecurity internship at CiberScore
 ```
 
 ---
