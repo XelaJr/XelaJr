@@ -32,7 +32,7 @@ interests:
   - 🛠️ Tinkering with hardware and systems
 
 background: >
-  I grew up surrounded by computers — my father is a sysadmin,
+  I grew up surrounded by computers, my father is a sysadmin,
   so I've been building, breaking, and fixing things since I can remember.
   That curiosity led me to study Computer Engineering and specialize 
   in cybersecurity. I love understanding how things work under the hood
@@ -45,7 +45,7 @@ currently: Starting a cybersecurity internship at CiberScore
 
 ## 🛡️ Cybersecurity & AI
 
-I'm deeply passionate about **cybersecurity** — from network security and ethical hacking to secure software development. I earned a **Cybersecurity Diploma from Universidad Loyola** alongside my degree, which solidified my interest in the field.
+I'm deeply passionate about **cybersecurity**, from network security and ethical hacking to secure software development. I earned a **Cybersecurity Diploma from Universidad Loyola** alongside my degree, which solidified my interest in the field.
 
 I'm also fascinated by the intersection of **AI and security**: how machine learning can be used for threat detection, anomaly analysis, and building smarter defense systems.
 
