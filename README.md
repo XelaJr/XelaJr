@@ -23,22 +23,27 @@
 name: Alex
 role: Computer Engineer
 location: Spain 🇪🇸
-Studies: Ingeniería Informatica en Tecnologías Virtuales — Universidad Loyola
-Diploma: Cibersecurity — Universidad Loyola
+
+Studies:
+  - Ingeniería Informatica en Tecnologías Virtuales — Universidad Loyola
+  - Cibersecurity — Universidad Loyola
 
 interests:
   - 🔐 Cybersecurity (offensive & defensive)
   - 🤖 Artificial Intelligence & Machine Learning
   - 🛠️ Tinkering with hardware and systems
 
-background: >
+background:
   I grew up surrounded by computers, my father is a sysadmin,
   so I've been building, breaking, and fixing things since I can remember.
   That curiosity led me to study Computer Engineering and specialize 
   in cybersecurity. I love understanding how things work under the hood
   and figuring out how to make them more secure.
 
-currently: Starting a cybersecurity internship at CiberScore
+skills:
+  I'll do it
+
+currently: Studying a Master's in Cybersecurity and Privacy at UOC
 ```
 
 ---
