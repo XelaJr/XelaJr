@@ -22,7 +22,7 @@
 ```yaml
 name: Alex
 role: Computer Engineer
-location: Spain 🇪🇸 - Open to opportunities abroad
+location: Spain - Open to opportunities abroad
 
 Studies:
   - Ingeniería Informatica en Tecnologías Virtuales — Universidad Loyola
